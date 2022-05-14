@@ -1,0 +1,2 @@
+# Memorica
+A MERN app
